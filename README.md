@@ -24,9 +24,9 @@ proxy.php 代理接口文件
 
 ![image-20230825224141296](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/image-20230825224141296.png)
 
-![image-20230825224344528](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/image-20230825224344528.png)
+![image-20230825224928037](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/image-20230825224928037.png)
 
-![image-20230825224444507](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/image-20230825224444507.png)
+![image-20230825224946476](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/image-20230825224946476.png)
 
 且需要安装Composer依赖
 
