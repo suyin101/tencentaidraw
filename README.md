@@ -22,8 +22,18 @@ proxy.php 代理接口文件
 
 把以上三个文件都放到网站中，并修改相应内容
 
+![image-20230825224141296](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/image-20230825224141296.png)
+
+![image-20230825224344528](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/image-20230825224344528.png)
+
+![image-20230825224444507](https://picosssuyin.oss-cn-beijing.aliyuncs.com/img-typora/image-20230825224444507.png)
+
 且需要安装Composer依赖
 
 具体可以参考腾讯云的文档和这个
 
-https://blog.csdn.net/qq_43079386/article/details/131714001?spm=1001.2014.3001.5501
+[API Explorer - 云 API - 控制台 (tencent.com)](https://console.cloud.tencent.com/api/explorer?Product=aiart&Version=2022-12-29&Action=TextToImage)
+
+[PHP-SDK 中心-腾讯云 (tencent.com)](https://cloud.tencent.com/document/sdk/PHP)
+
+[宝塔Linux面板安装Composer依赖管理工具与PHP依赖包的方法_宝塔面板安装composer_苏音资源的博客-CSDN博客](https://blog.csdn.net/qq_43079386/article/details/131714001?spm=1001.2014.3001.5501)
